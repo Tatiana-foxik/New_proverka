@@ -260,5 +260,6 @@ int main()
 			p = p->next;
 		}
 		write_to_file(ls);
+		cout << "Mama-mia";
 	}
 }
